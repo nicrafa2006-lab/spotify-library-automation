@@ -12,3 +12,5 @@ O script solicita permissão via Spotify Dashboard, mapeia as faixas da playlist
 
 ---
 *Projeto em desenvolvimento - Foco em Automação e Backend.*
+
+Este gerenciador funciona em duas etapas: primeiro, o Verificador escaneia sua biblioteca local de 4.000+ músicas para encontrar lacunas; depois, o Downloader entra em ação para completar os arquivos que faltam.
